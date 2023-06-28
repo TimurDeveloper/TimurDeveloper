@@ -10,15 +10,7 @@
 
 Skills: VUE JS / JS / HTML / CSS / TAILWIND
 
-- 🔭 I’m currently working on this page. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TimurDeveloper)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TimurDeveloper)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={TimurDeveloper}&theme={theme_name}&exclude={exclude}
-
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={TimurDeveloper}&theme={theme_name}
 
 
 ______
