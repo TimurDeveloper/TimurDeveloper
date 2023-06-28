@@ -36,7 +36,5 @@ ______
 </div>
 ______________
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TimurDeveloper)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=TimurDeveloper&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
