@@ -2,6 +2,10 @@
 #### I am beginner Frontend developer
 ![I am beginner in Frontend developing](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+- Изучаю фронтэнд с февраля 2022
+- Прохожу самостояльное обучение
+- Хочу освоить новую профессию и найти работу
+
 
 
 Skills: VUE JS / JS / HTML / CSS / TAILWIND
